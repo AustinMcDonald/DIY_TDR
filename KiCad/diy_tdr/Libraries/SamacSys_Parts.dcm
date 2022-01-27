@@ -1,39 +1,33 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP NE555DR
-D Single Precision Timer
-K
-F http://www.ti.com/lit/ds/symlink/ne555.pdf
-$ENDCMP
-#
-$CMP A10503RNCQ
-D A10503RNCQ ROHS COMPLIANT: YES
-K
-F https://www.ckswitches.com/media/1349/arotary.pdf
-$ENDCMP
-#
 $CMP 2479
 D KEYSTONE - 2479 - BATTERY HOLDER, AAA, 3WAY
-K
 F http://www.keyelco.com/product-pdf.cfm?p=1041
-$ENDCMP
-#
-$CMP A10303RNCB
-D Rotary Switches Rotary
-K
-F https://www.ckswitches.com/media/1349/arotary.pdf
 $ENDCMP
 #
 $CMP 73137-5003
 D Molex BNC Series Right Angle 50 PCB Mount Bulkhead Fitting BNC Connector, jack, Nickel, Through Hole Termination
-K
 F https://www.molex.com/pdm_docs/sd/731375003_sd.pdf
+$ENDCMP
+#
+$CMP A10303RNCB
+D Rotary Switches Rotary
+F https://www.ckswitches.com/media/1349/arotary.pdf
+$ENDCMP
+#
+$CMP A10503RNCQ
+D A10503RNCQ ROHS COMPLIANT: YES
+F https://www.ckswitches.com/media/1349/arotary.pdf
 $ENDCMP
 #
 $CMP M2012LL1W03
 D Toggle Switches SPDT ON-NONE ON LOCKING LEVER
-K
 F https://www.arrow.com/en/products/m2012ll1w03/nkk-switches
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
 #End Doc Library
